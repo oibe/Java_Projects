@@ -1,0 +1,6 @@
+To grader: 
+
+
+To launch GUI compile CalenderFrame.java
+
+Some of the themes may be a little screwy because we aren't able to delete files off the CVS folder. So random image files are there that can be applied as themes. Just ignore them. Also in a seperate project is a theme editor. The full functionality of the theme editor hasnt been implemented yet due to time constraints. right now its more a Picture resizer.It makes the theme data file, but the actual calender hasnt been implemented to read it. Just something worth noting.
